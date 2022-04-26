@@ -1,0 +1,83 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects #status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: 100%;
+  }
+
+  h1{
+    color:white;
+    font-family: 'Shadows Into Light', cursive;
+    border-color:white;
+    border-style: double;
+    border-left: none;
+    border-right:none;
+    font-size: 80px;
+    border-width: 13px;
+  }
+
+canvas{
+  border:2px  solid  groove;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 16px;
+    margin-top: 130px;
+}
+
+.heading{
+  font-size: 23px;
+  width:100%;
+  margin: 0px;
+  text-decoration:underline;
+}
+
+#copyright_footer{
+  position: fixed;
+  color:#696969;
+  bottom:0;
+  width:100%;
+  line-height: 3;
+  background-color: ivory;
+  text-align: center;
+  transition:3s;
+  font-size:20px;
+  
+
+}
+
+#copyright_footer:hover{
+box-shadow: 15px , 15px , 15px , gray;
+font-size:25px;
+border-top: 3px;
+border-style: double;
+border-bottom: 0px;
+
+}
+
+#start{
+  margin-top:20px;
+}
+
+#status , #result{
+  border-radius: 9px;
+  height:60px;
+  width:276px;
+}
+
+input{
+  width:543px;
+
+}
+
+body{
+  background-image: url('bg.webp');
+}
